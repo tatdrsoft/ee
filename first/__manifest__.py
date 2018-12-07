@@ -2,7 +2,7 @@
 {
     'name': 'PS Cloud 培训第一天',
     'version': '12.0.1.0',
-    'summary': 'PS Cloud 培训总结',
+    'summary': 'PS Cloud 培训第一天',
     'author': "www.mypscloud.com",
     'website': 'https://www.mypscloud.com/',
     'category': 'Tools',
